@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Delete CrackMiDrAi Forum Snow
 // @namespace    https://bbs.midrai.cn/
-// @version      0.1-beta2
+// @version      0.1-beta3
 // @description  Deletes all canvas elements on CrackMiDrAi Forum.
-// @author       chatGPT
+// @author       OpenAI ChatGPT
 // @match        https://bbs.midrai.cn/*
 // @grant        none
 // ==/UserScript==
